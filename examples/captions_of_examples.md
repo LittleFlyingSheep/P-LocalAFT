@@ -1,6 +1,7 @@
 Example 1:
   - AAC metheds:
     - P-Transformer: wind chimes chime wind chimes chime wind chimes clang wind chimes tinkle wind chimes and wind chimes tinkle wind chimes chime
+    - P-GlobalAFT: wind chimes clang together in the wind as the wind blows
     - P-LocalAFT: wind chimes clang together as *people talk* in the background
   - Ground Truth:
     - Original caption 1: a wind chime is making noise while *people are talking* in the background
@@ -12,6 +13,7 @@ Example 1:
 Example 2:
   - AAC metheds:
     - P-Transformer: people are talking while *birds are chirping* in the background
+    - P-GlobalAFT: a dog barks while *birds chirp* in the background
     - P-LocalAFT: *a dog barks* while people talk in the background
   - Ground Truth:
     - Original caption 1: *a dog barks* a few times and two men talk to each other
@@ -23,6 +25,7 @@ Example 2:
 Example 3:
   - AAC metheds:
     - P-Transformer: a person is *playing a musical instrument*
+    - P-GlobalAFT: a person is opening and closing *a creaky door*
     - P-LocalAFT: *a door creaks* as it is *opened and closed*
   - Ground Truth:
     - Original caption 1: *a door* that somebody is *opening and closing* needs oil
@@ -34,6 +37,7 @@ Example 3:
 Example 4:
   - AAC metheds:
     - P-Transformer: a person is walking through *the snow*
+    - P-GlobalAFT: someone is walking through a pile of leaves
     - P-LocalAFT: a person is walking on *a gravel path*
   - Ground Truth:
     - Original caption 1: a person is walking on *leaves in the woods*
