@@ -9,3 +9,7 @@ The model structure of the proposed P-LocalAFT is provided in the file path [mod
 ## Examples
 
 Examples of predicted captions are provided in the file path [examples](./examples), where the corresponding audio files are also provided.
+
+## License
+
+This project is released under the CC BY-NC-ND 4.0 license.
